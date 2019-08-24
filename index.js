@@ -20,6 +20,7 @@ app.get('/', (req, res) => {
 app.use(express.static('public'));
 
 app.use('/users', userRoute);
+
 app.listen(port, () => {
   console.log('Nodejs server is listening on port : ' + port);
 }); 
