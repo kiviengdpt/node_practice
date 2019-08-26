@@ -1,10 +1,10 @@
 html
   head
     link(rel="stylesheet", href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css")
-    link(rel="stylesheet", href="/styles/style.css")
+    link(rel="stylesheet", href="/styles/style.css")  
   body 
     nav.navbar.navbar-expand-lg.navbar-light.bg-light
-      a.navbar-brand(href='#') Coder.Tokyo
+      a.navbar-brand(href='#') r4pt0r
       button.navbar-toggler(type='button', data-toggle='collapse', data-target='#navbarNav', aria-controls='navbarNav', aria-expanded='false', aria-label='Toggle navigation')
         span.navbar-toggler-icon
       #navbarNav.collapse.navbar-collapse
@@ -13,5 +13,7 @@ html
             a.nav-link(href='/') Home 
           li.nav-item
             a.nav-link(href='/users') User
+          li.nav-item
+            a.nav-link(href='/auth/login') Log in
   .container.pt-5
     block content 

@@ -2,55 +2,14 @@
   "users": [
     {
       "name": "namm",
-      "id": "LsKIJVzsg"
+      "id": "LsKIJVzsg",
+      "email": "1@g.com",
+      "password": "1"
     },
     {
       "name": "duoc",
-      "id": "RHW9KjEau"
-    },
-    {
-      "name": "duoc",
-      "id": "qM0jeCB5R"
-    },
-    {
-      "name": "duoc",
-      "id": "Md6GCd6zC"
-    },
-    {
-      "name": "dat",
-      "id": "AEGopsh9f"
-    },
-    {
-      "name": "duoc",
-      "id": "B9LewvL6D"
-    },
-    {
-      "name": "siteB",
-      "id": "CF3I_S2nq"
-    },
-    {
-      "name": "",
-      "id": "1gO46cdKL"
-    },
-    {
-      "name": "duoc",
-      "phone": "1234",
-      "id": "AUaC-s41p"
-    },
-    {
-      "name": "dang",
-      "phone": "1564",
-      "id": "Wx1TdwSy3"
-    },
-    {
-      "name": "thanh",
-      "phone": "123123",
-      "id": "qS4mpxlfz"
-    },
-    {
-      "name": "phonggiamdoc",
       "phone": "0353007878",
-      "id": "b3EXkGvTC"
+      "id": "iSTTm6EzT"
     }
   ]
 }
